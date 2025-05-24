@@ -1,0 +1,7 @@
+{
+    "board": "arduino:uno",   
+    "sketch": "Self_balance_robot/Self_balance_robot.ino",
+    "port": " "                    
+  }
+
+  
